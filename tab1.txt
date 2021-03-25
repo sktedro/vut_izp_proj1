@@ -1,0 +1,14 @@
+123abc 123 abc123 abc 1a
+1 2 3 4 5
+0 -1 99999 0.1 10
+0.49 0.5 1.5 3.9 10.0
+a b c d e
+f g h i j
+rows cset beginswith acol rseq
+A B C D E
+LORem iPSUM ANyAdat bazdmeg OKE
+9 8 7 6 5
+0.k 1.7a 20cm 1.9m 80kg
+K 2.4 3.5 5.9 -
+s u p ? bro
+THIS IS THE LAST ROW

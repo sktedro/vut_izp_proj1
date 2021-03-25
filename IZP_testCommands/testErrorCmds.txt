@@ -1,0 +1,172 @@
+irow
+drow
+drows
+icol
+dcol
+dcols
+irow Y
+drow Y
+drows Y
+icol Y
+dcol Y
+dcols Y
+drows Y Y
+dcols Y Y
+cset
+tolower
+toupper
+round
+int
+copy
+swap
+move
+cset k
+cset k k
+tolower k
+toupper k
+round k
+int k
+copy k
+copy k k
+swap k
+swap k k
+move k 
+move k k
+csum
+cavg
+cmin
+cmax
+ccount
+cseq
+rseq
+rsum
+ravg
+rmin
+rmax
+rcount
+csum k
+cavg k
+cmin k
+cmax k
+ccount k
+cseq k
+rseq k
+rsum k
+ravg k
+rmin k
+rmax k
+rcount k
+csum k k
+cavg k k
+cmin k k
+cmax k k
+ccount k k
+cseq k k
+rseq k k
+rsum k k
+ravg k k
+rmin k k
+rmax k k
+rcount k
+csum k k k
+cavg k k k
+cmin k k k
+cmax k k k
+ccount k k k
+cseq k k k
+rseq k k k
+rsum k k k
+ravg k k k
+rmin k k k
+rmax k k k
+rseq k k k k
+csum k 1
+cavg k 4
+cmin k 1
+cmax k 1
+ccount 1 k
+cseq k 1
+rseq k 1
+rsum k 1
+ravg k 1
+rmin k 1
+rmax k 1
+rcount 1
+csum k 1 k
+cavg k 1 k
+cmin k 1 k
+cmax k 1 k
+ccount 1 k k
+cseq k 1 k
+rseq k 1 k
+rsum k 1 k
+ravg k 1 k
+rmin k 1 k
+rmax k 1 k
+rseq k 1 k k
+csum k -
+cavg k -
+cmin k -
+cmax k -
+ccount - k
+cseq k -
+rseq k -
+rsum k -
+ravg k -
+rmin k -
+rmax k -
+rcount -
+csum k - k
+cavg k - k
+cmin k - k
+cmax k - k
+ccount - k k
+cseq k - k
+rseq k - k
+rsum k - k
+ravg k - k
+rmin k - k
+rmax k - k
+rseq k - - k
+rseq k - 1 k
+rows
+rows 1
+rows k
+rows k k
+rows - 4
+rows k -
+beginswith
+beginswith 1
+beginswith k
+beginswith k k
+contains
+contains 1
+contains k
+contains k k
+drows 3 2
+dcols 3 2
+cset 0
+tolower 0
+toupper 0
+round 0
+int 0
+copy 0 1
+copy 1 0
+swap 0 1
+swap 1 0
+move 0 1
+move 1 0
+csum 0 1 1
+csum 1 0 1
+csum 1 3 2
+cseq 0 1 1
+cseq 1 0 1
+rseq 0 1 1 1
+rseq 1 0 1 1
+rseq 1 3 2 1
+rsum 0 1 1
+rsum 1 0 1
+rsum 1 3 2
+rows 10 1
+rows 0 1
+rows 1 0

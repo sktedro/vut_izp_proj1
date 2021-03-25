@@ -1,0 +1,14 @@
+Tyden:Cviceni:Bodu:Projekt
+1:Prvni programy:0:
+2:Cyklus, typy:0:
+3:Retezce:0:
+4:Funkce 1:0:
+5:Struktury:2:
+6:Ukazatele:2:
+7:Funkce:0:Obhajoba 1
+8:Malloc, dbg:2:
+9::0:
+10::0:
+11:Iterace, rekurze:2:
+12::0:Obhajoba 2
+13:Dynamicke struktury:2:

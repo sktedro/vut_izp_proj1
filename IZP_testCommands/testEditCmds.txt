@@ -1,0 +1,49 @@
+irow 1
+irow 3
+irow 5
+irow 10
+arow
+drow 1
+drow 3
+drow 5
+drow 10
+drows 1 2
+drows 1 5
+drows 1 10
+drows 2 4
+drows 2 10
+drows 5 10
+icol 1
+icol 3
+icol 10
+acol
+dcol 1
+dcol 3
+dcol 5
+dcol 10
+dcols 1 2
+dcols 1 5
+dcols 1 10
+dcols 2 4
+dcols 2 10
+dcols 4 10
+arow arow irow 1 irow 5 dcols 1 5
+arow arow irow 1 irow 5 dcol 1 dcols 1 5
+arow arow irow 1 irow 5 acol acol icol 1 icol 5
+arow arow irow 1 irow 5 acol acol icol 1 icol 5 dcol 1
+arow arow irow 1 irow 5 acol acol icol 1 icol 5 dcols 1 5
+arow arow irow 1 irow 5 acol acol icol 1 icol 5 dcols 1 5 dcol 1
+arow arow irow 1 irow 5 acol acol icol 1 icol 5 drow 1
+arow arow irow 1 irow 5 acol acol icol 1 icol 5 drows 1 5
+arow arow irow 1 irow 5 acol acol icol 1 icol 5 drows 1 10
+arow arow irow 1 irow 5 acol acol icol 1 icol 5 drow 1 drows 1 5
+arow arow irow 1 irow 5 acol acol icol 1 icol 5 dcols 1 5 drows 1 5
+arow arow irow 1 irow 5 acol acol icol 1 icol 5 dcol 1 drow 1
+drow 1 dcol 1
+drows 1 3 dcols 1 3 acol arow
+drows 1 3 dcols 1 3
+drows 1 15 icol 1 icol 3 icol 5 acol acol 
+drows 1 15 icol 1 icol 3 icol 5 acol acol dcol 1 dcol 2
+drows 1 15 icol 1 icol 3 icol 5 acol acol arow irow 1
+drows 1 15 icol 1 icol 3 icol 5 acol acol dcol 1 dcol 2 arow arow arow
+dcols 1 10 icol 1 icol 5 arow irow 1
