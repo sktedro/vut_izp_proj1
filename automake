@@ -1,4 +1,0 @@
-  while true; do \
-    inotifywait -qr -e modify ./main_Xray.c; \
-    make; \
-  done

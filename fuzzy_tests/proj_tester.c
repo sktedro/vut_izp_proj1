@@ -59,7 +59,7 @@
   ** stops if an error is encountered, so you can read the input, which caused the error.
   */
 
-char filename[] = "./main_Victor"; //needs a space after the name!
+char filename[] = "./main"; //needs a space after the name!
 char inputTable[] = "<tab1.txt";
 
 char cmds[][11] = {"irow", "arow", "drow", "drows", "icol", "acol", "dcol", "dcols",
